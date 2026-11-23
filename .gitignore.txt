@@ -1,0 +1,14 @@
+# Eclipse workspace
+*.exe
+.metadata/
+/.metadata/
+.settings/
+
+# Java compiled files
+*.class
+bin/
+
+# Temporary files
+*.log
+
+
