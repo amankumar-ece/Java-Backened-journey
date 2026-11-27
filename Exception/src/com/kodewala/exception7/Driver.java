@@ -17,7 +17,7 @@ public class Driver {
 		{
 			e.printStackTrace();
 		}
-		catch
+		
 	}
 
 }

@@ -1,5 +1,16 @@
 package com.kodewala.arrayList;
-
+/*Array List :  (In which scenario we are using ArrayList)
+      1. Index Based
+      2. Continuous Memory location
+      3. Grow dynamically
+Good for- Random access / Read ? > index based and continuous memory > O(1)
+ * 
+ * 
+ * Not Good for->
+ *               1. Adding and deleting elements in the middle of list Shifting
+                 2.  required-> O(n)
+ * 
+ */
 import java.util.ArrayList;
 
 public class Driver {
